@@ -81,7 +81,7 @@ def usage():
 	Tel: +639662214293
 	No Spam Call!!\033[0m
 	\033[36m
-	Usage: python3 gass.py -s (the IP Web) -p (Port) -t (Speed Attack)\033[0m
+	Usage: python3 D3monDdos.py -s (the IP Web) -p (Port) -t (Speed Attack)\033[0m
 	\033[32m
 	Information:
 	-s = IP website (123.234.456.567)
